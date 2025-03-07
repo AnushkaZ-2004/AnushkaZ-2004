@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anushka Sahan</h1>
 <h3 align="left">👨‍💻 About Me</h3>
-</br>
 <h4 align="left">I am a passionate Software Engineering student at NIBM, specializing in full-stack development with a strong foundation in Java, C, C#, and Flutter.</h4>
-<h4 align="left">I focus on building scalable software solutions, creating seamless backend systems, and developing cross-platform mobile applications.</h4>
-</br>
+<h4 align="left">I focus on building scalable software solutions, creating seamless backend systems and developing cross-platform mobile applications.</h4>
 <h3 align="left">🚀 What I Do</h3>
-</br>
 <h4 align="left">🔹 Develop high-performance backend systems using Java, C#, and C.</h4>
 <h4 align="left">🔹 Build modern frontend experiences with the latest technologies.</h4>
 <h4 align="left">🔹 Create Flutter-based mobile applications for both Android and iOS.</h4>
@@ -21,11 +18,7 @@
 
 - ⚡ Fun fact **Call me as AS**
 
-</br>
-</br>
 <h3 align="left">💡 Let’s Connect!</h3>
-</br>
-</br>
 <h4 align="left">I’m always open to collaborating on exciting projects and learning new technologies. Let’s build something amazing together!</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
