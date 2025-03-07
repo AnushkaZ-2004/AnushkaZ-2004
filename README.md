@@ -2,7 +2,8 @@
 
 <h3 align="left">👨‍💻 About Me</h3> 
 
-<h4 align="left">I am a passionate Software Engineering student at NIBM, specializing in Full-Stack Development with a strong foundation in Java, C, C# and Flutter. I focus on building scalable software solutions, creating seamless backend systems and developing cross-platform mobile applications that deliver exceptional user experiences.</h4> 
+<h4 align="left">🔹I am a passionate Software Engineering student at NIBM, specializing in Full-Stack Development with a strong foundation in Java, C, C# and Flutter.</h4>  
+<h4 align="left">🔹I focus on building scalable software solutions, creating seamless backend systems and developing cross-platform mobile applications that deliver exceptional user experiences.</h4>
 
 <h3 align="left">🚀 What I Do</h3>
 
