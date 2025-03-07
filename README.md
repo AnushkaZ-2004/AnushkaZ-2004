@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anushka Sahan</h1>
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 </br>
+<h4 align="left">I am a passionate Software Engineering student at NIBM, specializing in full-stack development with a strong foundation in Java, C, C#, and Flutter.</h4>
+<h4 align="left">I focus on building scalable software solutions, creating seamless backend systems, and developing cross-platform mobile applications.</h4>
 </br>
-<h4 align="center">I am a passionate Software Engineering student at NIBM, specializing in full-stack development with a strong foundation in Java, C, C#, and Flutter. I focus on building scalable software solutions, creating seamless backend systems, and developing cross-platform mobile applications.</h4>
+<h3 align="left">🚀 What I Do</h3>
 </br>
-</br>
-<h3 align="center">🚀 What I Do</h3>
-</br>
-</br>
-<h4 align="center">🔹 Develop high-performance backend systems using Java, C#, and C.</h4>
-<h4 align="center">🔹 Build modern frontend experiences with the latest technologies.</h4>
-<h4 align="center">🔹 Create Flutter-based mobile applications for both Android and iOS.</h4>
-<h4 align="center">🔹 Solve complex technical problems with strong debugging skills.</h4>
+<h4 align="left">🔹 Develop high-performance backend systems using Java, C#, and C.</h4>
+<h4 align="left">🔹 Build modern frontend experiences with the latest technologies.</h4>
+<h4 align="left">🔹 Create Flutter-based mobile applications for both Android and iOS.</h4>
+<h4 align="left">🔹 Solve complex technical problems with strong debugging skills.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaz-2004&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaz-2004" /> </p>
 
@@ -25,10 +23,10 @@
 
 </br>
 </br>
-<h3 align="center">💡 Let’s Connect!</h3>
+<h3 align="left">💡 Let’s Connect!</h3>
 </br>
 </br>
-<h4 align="center">I’m always open to collaborating on exciting projects and learning new technologies. Let’s build something amazing together!</h4>
+<h4 align="left">I’m always open to collaborating on exciting projects and learning new technologies. Let’s build something amazing together!</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_anushka_sahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anushka_sahan" height="30" width="40" /></a>
