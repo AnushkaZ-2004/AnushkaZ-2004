@@ -1,7 +1,5 @@
 <h1 align="center">Hi,👋I'm Anushka Sahan</h1>
 
-<img align="center" alt="coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-
 <h3 align="left">👨‍💻 About Me</h3> 
 
 <h4 align="left">I am a passionate Software Engineering student at NIBM, specializing in Full-Stack Development with a strong foundation in Java, C, C# and Flutter. I focus on building scalable software solutions, creating seamless backend systems and developing cross-platform mobile applications that deliver exceptional user experiences.</h4> 
