@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Sahan</h1>
 <h3 align="left">👨‍💻 About Me</h3>
-<h4 align="left">I am a passionate Software Engineering student at NIBM, specializing in full-stack development with a strong foundation in Java, C, C#, and Flutter.</h4>
-<h4 align="left">I focus on building scalable software solutions, creating seamless backend systems and developing cross-platform mobile applications.</h4>
+<h4 align="left">I am a passionate Software Engineering student at NIBM, specializing in full-stack development with a strong foundation in Java, C, C#, and Flutter.I focus on building scalable software solutions, creating seamless backend systems and developing cross-platform mobile applications.</h4>
 <h3 align="left">🚀 What I Do</h3>
 <h4 align="left">🔹 Develop high-performance backend systems using Java, C#, and C.</h4>
 <h4 align="left">🔹 Build modern frontend experiences with the latest technologies.</h4>
@@ -24,6 +23,7 @@
 <p align="left">
 <a href="https://instagram.com/_anushka_sahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anushka_sahan" height="30" width="40" /></a>
 <a href="https://discord.gg/anushka_sahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anushka_sahan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anushka-sahan-2a4a83351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="anushka_sahan" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
