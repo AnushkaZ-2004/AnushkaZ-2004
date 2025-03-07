@@ -8,8 +8,8 @@
 
 <h3 align="left">🚀 What I Do</h3>
 
-<h4 align="left">🔹 Backend Development: Crafting high-performance systems using Java, C#, and C. </h4>
-<h4 align="left">🔹 Frontend Development: Creating modern, responsive, and interactive UIs.</h4>
+<h4 align="left">🔹 Backend Development: Crafting high-performance systems using Java, C# and C. </h4>
+<h4 align="left">🔹 Frontend Development: Creating modern, responsive and interactive UIs.</h4>
 <h4 align="left">🔹 Mobile Development: Building Flutter-based applications for Android & iOS. </h4>
 <h4 align="left">🔹 Problem Solving: Debugging and optimizing code for peak performance.</h4>
 
