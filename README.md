@@ -9,13 +9,13 @@
 
 ## 🚀 About Me  
 
-🔹 **Aspiring Software Engineer** specializing in **Full-Stack & Mobile Development**.  
-🔹 Passionate about **building scalable, high-performance applications** with **Flutter, Spring Boot & Firebase**.  
-🔹 Strong advocate for **clean code, best practices & software architecture**.  
-🔹 Focused on crafting innovative solutions that solve real-world challenges.  
+🔹 **Aspiring Software Engineer** specializing in **Full-Stack & Mobile Development**. <br> 
+🔹 Passionate about **building scalable, high-performance applications** with **Flutter, Spring Boot & Firebase**.  <br>
+🔹 Strong advocate for **clean code, best practices & software architecture**. <br> 
+🔹 Focused on crafting innovative solutions that solve real-world challenges. <br> 
 
-💡 **Currently working with:** `Flutter` | `Spring Boot` | `Firebase`  
-💬 **Let's talk about:** `Full-Stack Development` | `Mobile App Engineering`  
+💡 **Currently working with:** `Flutter` | `Spring Boot` | `Firebase`  <br>
+💬 **Let's talk about:** `Full-Stack Development` | `Mobile App Engineering`  <br>
 📩 **Reach out:** [anushkasahan209@gmail.com](mailto:anushkasahan209@gmail.com)  
 
 ---
