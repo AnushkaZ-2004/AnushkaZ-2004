@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Anushka Sahan</h1>
-<h3 align="center">Software Engineer | Mobile & Full-Stack Developer | Tech Enthusiast 🚀</h3>
+<h2 align="center">Software Engineer | Mobile & Full-Stack Developer | Tech Enthusiast 🚀</h2>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anushkaz-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,14 +13,21 @@
 
 ## 🚀 About Me  
 
-🔹 Passionate **Software Engineering** student at **NIBM** with a strong focus on **Full-Stack Development & Mobile App Engineering**.  
-🔹 Crafting **high-performance** and **scalable** solutions using **Java, C#, Flutter & Spring Boot**.  
-🔹 Committed to **building high-impact applications** that solve real-world problems.  
-🔹 Strong advocate for **clean code, best practices & efficient software architecture**.  
+- **Passionate Software Engineering student at NIBM with a strong focus on Full-Stack Development & Mobile App Engineering.**  
+- **Crafting high-performance and scalable solutions using Java, C#, Flutter & Spring Boot.**  
+- **Committed to building high-impact applications that solve real-world problems.**  
+- **Strong advocate for clean code, best practices & efficient software architecture.<br>**  
 
-💡 **Currently mastering:** `Flutter` | `Spring Boot` | `Firebase`  
-💬 **Ask me about:** `Java` | `C#` | `Full-Stack Development`  
-📩 **Reach out:** anushkasahan209@gmail.com  
+---
+- 🔭 I’m currently working on [Petify Mobile App](https://github.com/LihinduPerera/Petify_client.git)
+
+- 🌱 **I’m currently learning Flutter & Spring Boot**
+
+- 💬 **Ask me about Java & C#**
+
+- 📫 **How to reach me anushkasahan209@gmail.com**
+
+- ⚡ **Fun fact Call me AS**
 
 ---
 
@@ -32,7 +43,6 @@
 
 ### 💻 **Frontend & Mobile Development**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -50,10 +60,11 @@
 
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkaz-2004&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaz-2004&theme=tokyonight" width="400"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ---
 
