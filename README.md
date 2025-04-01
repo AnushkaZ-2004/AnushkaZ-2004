@@ -60,12 +60,12 @@
 
 ## 📈 GitHub Stats  
 
-<div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkaz-2004&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaz-2004&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkaz-2004&show_icons=true&theme=blueberry" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaz-2004&theme=blueberry" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaz-2004&layout=compact&theme=blueberry" width="400"/>
 </p>
-</div>
 
 ---
 
