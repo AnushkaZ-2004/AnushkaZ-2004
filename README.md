@@ -9,26 +9,25 @@
 
 ## 🚀 About Me  
 
-🔹 Passionate **Software Engineering** student at **NIBM** with a strong focus on **Full-Stack Development & Mobile App Engineering**.  
-🔹 Crafting **high-performance** and **scalable** solutions using **Java, C#, Flutter & Spring Boot**.  
-🔹 Committed to **building high-impact applications** that solve real-world problems.  
-🔹 Strong advocate for **clean code, best practices & efficient software architecture**.  
+🔹 **Aspiring Software Engineer** specializing in **Full-Stack & Mobile Development**.  
+🔹 Passionate about **building scalable, high-performance applications** with **Flutter, Spring Boot & Firebase**.  
+🔹 Strong advocate for **clean code, best practices & software architecture**.  
+🔹 Focused on crafting innovative solutions that solve real-world challenges.  
 
-💡 **Currently mastering:** `Flutter` | `Spring Boot` | `Firebase`  
-💬 **Ask me about:** `Java` | `C#` | `Full-Stack Development`  
-📩 **Reach out:** anushkasahan209@gmail.com  
+💡 **Currently working with:** `Flutter` | `Spring Boot` | `Firebase`  
+💬 **Let's talk about:** `Full-Stack Development` | `Mobile App Engineering`  
+📩 **Reach out:** [anushkasahan209@gmail.com](mailto:anushkasahan209@gmail.com)  
 
 ---
 
 ## 🛠 Tech Stack & Tools  
 
-### 🚀 **Programming & Scripting Languages**
+### 🚀 **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 💻 **Frontend & Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -72,4 +71,4 @@
 </p>
 
 ---
-🚀 **Let's build something amazing together!** 🚀
+🚀 **Let's innovate and build together!** 🚀
