@@ -19,7 +19,7 @@
 - **Strong advocate for clean code, best practices & efficient software architecture.<br>**  
 
 ---
-- 🔭 I’m currently working on [Petify Mobile App](https://github.com/LihinduPerera/Petify_client.git)
+- 🔭 **I’m currently working on [Petify Mobile App](https://github.com/LihinduPerera/Petify_client.git)**
 
 - 🌱 **I’m currently learning Flutter & Spring Boot**
 
