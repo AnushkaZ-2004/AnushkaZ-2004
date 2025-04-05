@@ -14,14 +14,14 @@
 ## 🚀 About Me  
 
 - **Passionate Software Engineering student at NIBM with a strong focus on Full-Stack Development & Mobile App Engineering.**  
-- **Crafting high-performance and scalable solutions using Java, C#, Flutter & Spring Boot.**  
+- **Crafting high-performance and scalable solutions using Flutter, Firebase, Python & Spring Boot.**  
 - **Committed to building high-impact applications that solve real-world problems.**  
 - **Strong advocate for clean code, best practices & efficient software architecture.<br>**  
 
 ---
 - 🔭 **I’m currently working on [Petify Mobile App](https://github.com/LihinduPerera/Petify_client.git)**
 
-- 🌱 **I’m currently learning Flutter & Spring Boot**
+- 🌱 **I’m currently learning Flutter, Python & Spring Boot**
 
 - 💬 **Ask me about Java & C#**
 
