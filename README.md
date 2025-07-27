@@ -65,7 +65,7 @@
 
 ---
 
-## 📈 GitHub Insights
+### 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anushkaz-2004&show_icons=true&theme=radical" width="400" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/anushkasahan" target="_blank">
