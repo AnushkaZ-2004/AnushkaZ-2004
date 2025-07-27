@@ -1,6 +1,8 @@
 <!-- Title Section -->
-<h1 align="center">✨ Anushka Sahan ✨</h1>
-<h3 align="center">🚀 Software Engineer | 💻 Full-Stack & Mobile Developer | 🌐 Tech Enthusiast</h3>
+
+<h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></h3>
+<h1 align="center">Hi , I'm Anushka Sahan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">🚀 Software Engineer | 💻 Full-Stack & Web Developer | 🌐 Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20about%20building%20scalable%20apps;Full-Stack%20%7C%20Mobile%20Developer%20%7C%20Tech%20Nerd;Clean%20Code%20Advocate%20🚀&center=true&width=500&height=45" />
@@ -16,24 +18,26 @@
 
 ---
 
-## 🧑‍💼 Who Am I?
 
-- 🎓 **Software Engineering Undergraduate** at NIBM  
-- 💡 Turning **ideas into apps** using modern technologies  
-- 🔭 Passionate about solving **real-world problems** through software  
-- 📱 Building **cross-platform mobile apps** using Flutter  
-- 🧠 Currently diving deep into **React & Spring Boot**
+- 🌱 I’m currently learning **React & Spring Boot**
+  
+- 💡 Turning **ideas into apps** using modern technologies
+   
+- 🔭 Passionate about solving **real-world problems** through software
+  
+- 💬 Ask me about **C, C# & Java**
+  
+- 📫 How to reach me **anushkasahan209@gmail.com**
+  
+- ⚡ Fun fact **That what she said**
 
 ---
-
-## 🧰 Tech Toolbox
-
 ### 🛠️ Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/C-%230175C2.svg?&style=for-the-badge&logo=&logoColor=white)
+![Flutter](https://img.shields.io/badge/Php-%2302569B.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -88,22 +92,3 @@
   </a>
 </p>
 
----
-
-## 💡 Fun Fact
-
-🧩 **People call me "AS" — and I love creating magic with code.**  
-☕ I believe coffee + code = innovation.
-
----
-
-## 🗂 Featured Projects
-
-✨ _Coming soon!_  
-📌 I'm currently working on exciting full-stack & mobile apps — stay tuned!
-
----
-
-<p align="center">
-  <strong>🚀 Let’s build something amazing together!</strong>
-</p>
