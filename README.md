@@ -67,9 +67,12 @@
 
 ### 📈 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaZ-2004&show_icons=true&theme=blueberry&hide_title=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaZ-2004&layout=compact&theme=blueberry) <br>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnushkaZ-2004&theme=blueberry)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaZ-2004&show_icons=true&theme=blueberry&hide_title=true&rank_icon=github" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaZ-2004&layout=compact&theme=blueberry" height="180em" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AnushkaZ-2004&theme=blueberry" height="180em" />
+</p>
+
 
 <br>
 <!--- trophy (start) -->
