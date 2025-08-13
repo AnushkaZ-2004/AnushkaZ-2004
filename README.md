@@ -67,11 +67,19 @@
 
 ### 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkaz-2004&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anushkaz-2004&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaz-2004&layout=compact&theme=radical" width="400" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaZ-2004&show_icons=true&theme=blueberry&hide_title=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaZ-2004&layout=compact&theme=blueberry) <br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnushkaZ-2004&theme=blueberry)
+
+<br>
+<!--- trophy (start) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=AnushkaZ-2004&theme=blueberry&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" alt="GitHub Trophies" />
+  </a>
+</div>
+<!--- trophy (end) -->
+
 
 ---
 
